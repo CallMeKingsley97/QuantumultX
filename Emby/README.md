@@ -3,7 +3,7 @@
   ### step 1 
   打开配置文件， 跳转到 [POLICY] 填入： 
   
-  static=Emby,direct,proxy,img-url=https://raw.githubusercontent.com/CallMeKingsley97/Quantumultx//main/Emby/Emby.png
+  static=Emby,direct,proxy,img-url=https://raw.githubusercontent.com/CallMeKingsley97/Quantumultx//main/Emby/emby.png
   
   ### step 2
   跳转到 [REWRITE_REMOTE] 填入：
