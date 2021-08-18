@@ -12,9 +12,13 @@
   
   
   ### step 3
-  跳转 [filter_remote] 填入:
+  跳转到 [filter_remote] 填入:
   
   https://raw.githubusercontent.com/CallMeKingsley97/QuantumultX/main/Emby/Emby.list
+  
+  
+  ### step 4
+  回到主页面，在Emby策略中 添加自己的节点   或者选中  proxy
   
   重启 Emby客户端    尝试连接 Emby即可    若破解成功quanx会提示破解成功
   
