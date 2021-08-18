@@ -3,12 +3,12 @@
   ### step 1 
   打开配置文件， 跳转到 [POLICY] 填入： 
   
-  static=Emby,direct,proxy,img-url=https//raw.githubusercontent.com/CallMeKingsley97/Quantumultx//main/Emby/Emby.png
+  static=Emby,direct,proxy,img-url=https://raw.githubusercontent.com/CallMeKingsley97/Quantumultx//main/Emby/Emby.png
   
   ### step 2
   跳转到 [REWRITE_REMOTE] 填入：
   
-  https://raw.githubusercontent.com/CallMeKingsley97/Quantumultx/main/Emby/emby.conf, tag=Emby Perm, update-interval=86400, opt-parser=false, enabled=true
+  https://raw.githubusercontent.com/CallMeKingsley97/Quantumultx/main/Emby/EmbyPerm.conf, tag=Emby Perm, update-interval=86400, opt-parser=false, enabled=true
   
   
   ### step 3
