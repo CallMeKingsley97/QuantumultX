@@ -3,7 +3,7 @@
 QuantumultX :
 ************************
 [rewrite_remote]
-https://raw.githubusercontent.com/qiangxinglin/Emby/main/QuantumultX/emby.conf, tag=Emby Premiere, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/CallMeKingsley97/QuantumultX/main/Emby.js, tag=Emby Premiere, update-interval=86400, opt-parser=false, enabled=true
 */
 
 var url = $request.url;
